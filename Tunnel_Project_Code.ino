@@ -17,7 +17,7 @@ For pin attachments see Connection List.xls file.
   float sensorReading1 = 0.00; // value read from your first sensor
   File sensorData;
 //
-  #define CH3 7   // Connect Digital Pin 7 on Arduino to CH3 on Relay Module
+  #define CH3 7   // Connect Digital Pin 7 (Pin 13 on Huzzah) on Arduino to CS on the SD Card Module.
 //
 
 void setup() {
