@@ -11,7 +11,7 @@ For pin attachments see Connection List.xls file.
 // 53 on the Mega) must be left as an output or the SD
 // library functions will not work.
 
-  const int CSpin = 10;  // Pin 15 on Huzzah
+  const int CSpin = 10;  // Pin GPIO15
   const int sensor_pin = 2;	// Soil moisture sensor O/P pin 
   String dataString =""; // holds the data to be written to the SD card
   float sensorReading1 = 0.00; // value read from your first sensor
