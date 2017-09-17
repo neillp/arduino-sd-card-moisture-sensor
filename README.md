@@ -1,3 +1,3 @@
 # arduino-sd-card-moisture-sensor
-A sketch to run an Arduino with a moisture sensor and writing data to an SD Card.
-Currently in progress.
+A sketch to run an ESP8266 F with a moisture sensor and writing data to an SD Card.
+Completed.
